@@ -1,0 +1,16 @@
+html{
+    background-image: url(ize.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body{
+    color: white;
+}
+div{
+
+    box-sizing: border-box;
+    padding: 1vw;
+    text-align: center;
+
+}
